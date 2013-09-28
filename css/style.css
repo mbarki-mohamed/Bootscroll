@@ -1,0 +1,20 @@
+
+/*
+ * Bootscroll v 1.0
+ * Author: Mohamed Mbarki - Twitter : @mbarki2009
+ * Git : https://github.com/mbarki-mohamed/Bootscroll
+ * Copyright 2013 Mohamed Mbarki .
+ * Licensed under the MIT license :http://www.opensource.org/licenses/mit-license.php
+ * 
+ */
+
+
+/* Scroll To Top Button ; Position and size*/
+
+.Bootscroll {
+	bottom: -5px;
+	right: 20px;
+	height : 80px;
+	width : 70px;	
+	
+}
