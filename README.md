@@ -1,6 +1,12 @@
 Bootscroll
 ==========
 
-Bootstrap scroll to top button Inspired By Pinterest
+By Mohamed Mbarki.
+
+Bootscroll is a scroll to top Bootstrap Button Inspired By the Pinterest design. It's simple , easy to use and beautiful.
+
+
+Installation 
+==========
 
 
