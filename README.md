@@ -14,8 +14,17 @@ Bootscroll needs both jQuery and Bootstrap to work .
 1-Add style.css and jquery.scroll.js to your source code
 
 2-Include the Scroll to top Button : 
-`````javascript
+
+`````html
  <button class="btn  btn-danger Bootscroll" href = "#top" type="button"><i class="icon-arrow-up icon-white"></i>Scroll To top</button>
+`````
+
+3-Active the plugin : 
+
+`````javascript
+$(document).ready(function () {
+			$.scrollUp();
+		});
 `````
 
 Thanks  
