@@ -21,7 +21,7 @@ Bootscroll needs both jQuery and Bootstrap to work .
 Thanks  
 -------
 
-To Mark Goodyear for {Scrollup}[https://github.com/markgoodyear/scrollup]
+To Mark Goodyear for https://github.com/markgoodyear/scrollup
 
 
 License 
