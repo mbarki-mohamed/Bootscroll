@@ -11,11 +11,22 @@ Installation and Requirements
 
 Bootscroll needs both jQuery and Bootstrap to work .
 
-1-Add Bootstrap.css , jquery.js and  jquery.scroll.js .
+1-Add style.css and jquery.scroll.js to your source code
 
 2-Include the Scroll to top Button : 
-<MTMarkdownOptions output='raw'>
+`````javascript
  <button class="btn  btn-danger Bootscroll" href = "#top" type="button"><i class="icon-arrow-up icon-white"></i>Scroll To top</button>
-</MTMarkdownOptions>
+`````
+
+Thanks  
+-------
+
+To Mark Goodyear for {Scrollup}[https://github.com/markgoodyear/scrollup]
 
 
+License 
+-------
+
+MIT license.
+
+Copyright (C) 2013 Mohamed Mbarki.
