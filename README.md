@@ -19,7 +19,7 @@ Bootscroll needs both jQuery and Bootstrap to work .
  <button class="btn  btn-danger Bootscroll" href = "#top" type="button"><i class="icon-arrow-up icon-white"></i>Scroll To top</button>
 `````
 
-3-Active the plugin : 
+3-Activate the plugin : 
 
 `````javascript
 $(document).ready(function () {
